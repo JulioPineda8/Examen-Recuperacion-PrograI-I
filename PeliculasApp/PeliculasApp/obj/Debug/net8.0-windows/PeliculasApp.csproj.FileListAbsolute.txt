@@ -1,0 +1,17 @@
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\bin\Debug\net8.0-windows\PeliculasApp.exe
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\bin\Debug\net8.0-windows\PeliculasApp.deps.json
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\bin\Debug\net8.0-windows\PeliculasApp.runtimeconfig.json
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\bin\Debug\net8.0-windows\PeliculasApp.dll
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\bin\Debug\net8.0-windows\PeliculasApp.pdb
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\obj\Debug\net8.0-windows\PeliculasApp.frmAdministrador.resources
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\obj\Debug\net8.0-windows\PeliculasApp.Form1.resources
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\obj\Debug\net8.0-windows\PeliculasApp.csproj.GenerateResource.cache
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\obj\Debug\net8.0-windows\PeliculasApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\obj\Debug\net8.0-windows\PeliculasApp.AssemblyInfoInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\obj\Debug\net8.0-windows\PeliculasApp.AssemblyInfo.cs
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\obj\Debug\net8.0-windows\PeliculasApp.csproj.CoreCompileInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\obj\Debug\net8.0-windows\PeliculasApp.dll
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\obj\Debug\net8.0-windows\refint\PeliculasApp.dll
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\obj\Debug\net8.0-windows\PeliculasApp.pdb
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\obj\Debug\net8.0-windows\PeliculasApp.genruntimeconfig.cache
+C:\Users\jpine\OneDrive\Escritorio\AdministradorDePeliculas\PeliculasApp\PeliculasApp\obj\Debug\net8.0-windows\ref\PeliculasApp.dll
